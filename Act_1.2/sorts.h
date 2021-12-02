@@ -1,6 +1,7 @@
 #ifndef sorts_h
 #define sorts_h
-
+// Edgar Alexander Carrizalez Lerín 
+// 21 noviembre del 2021
 #include <iostream>
 #include <sstream>
 #include <vector>
