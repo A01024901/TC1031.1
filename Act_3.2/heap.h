@@ -1,10 +1,14 @@
 #ifndef heap_h
 #define heap_h
 
+// Edgar Alexander Carrizalez Lerín 
+// 29 noviembre del 2021
+
 #include <string>
 #include <sstream>
 #include <iostream>
 #include <cstring>
+
 
 
 using namespace std;
