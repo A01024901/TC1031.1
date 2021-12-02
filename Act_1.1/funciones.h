@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
-
+// Edgar Alexander Carrizalez Lerín 
+// 25 agosto del 2021
 using namespace std;
 
 /*
