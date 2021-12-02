@@ -1,6 +1,7 @@
 #ifndef list_h
 #define list_h
-
+// Edgar Alexander Carrizalez Lerín 
+// 23 noviembre del 2021
 #include <iostream>
 #include <sstream>
 #include <cstring>
